@@ -21,3 +21,9 @@
 ## Validating Activity Streams
 
 * [as2lint](https://github.com/jasnell/as2lint) - Lint Activity Streams 2.0 feeds
+
+## Contribute
+Contributions welcome!
+
+## License
+[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
